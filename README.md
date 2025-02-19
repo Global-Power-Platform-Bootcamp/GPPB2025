@@ -1,2 +1,2 @@
-# GPPB2024
-Global Power Platform Bootcamp 2024
+# GPPB2025
+Global Power Platform Bootcamp 2025
